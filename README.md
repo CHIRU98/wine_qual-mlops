@@ -21,8 +21,10 @@ start dvc
 ```bash
 dvc init
 ```
-
+Add csv file:
+```bash
 git add datagiven/winequality.csv
+```
 
 git add .
 
